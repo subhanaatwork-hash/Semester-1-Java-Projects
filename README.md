@@ -1,6 +1,13 @@
-# Semester-1-Java-Projects
-This Repository contains all of my Lab Tasks and Lab Assignments I have done in my First semester of univeristy for the course "Programming Fundamentals". The programming Language is "Java"
-[LeapYear.java](https://github.com/user-attachments/files/23537991/LeapYear.java)
+# Programming Fundamentals - Lab Tasks
+
+**Course:** Programming Fundamentals  
+**Semester:** 1st Semester  
+
+## Lab Assignments
+
+This repository  contains all of my Lab Tasks and Lab Assignments I have done in my First semester of univeristy for the course "Programming Fundamentals". The programming Language is "Java"
+
+[LeapYear.java]-(https://github.com/user-attachments/files/23537991/LeapYear.java)
 [LabTask2Activity3.java](https://github.com/user-attachments/files/23537990/LabTask2Activity3.java)
 [LabTask2Activity1.java](https://github.com/user-attachments/files/23537989/LabTask2Activity1.java)
 [LabTask2.java](https://github.com/user-attachments/files/23537988/LabTask2.java)
