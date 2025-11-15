@@ -5,7 +5,7 @@
 
 ## Lab Assignments
 
-This repository  contains all of my Lab Tasks and Lab Assignments I have done in my First semester of univeristy for the course "Programming Fundamentals". The programming Language is "Java"
+This repository  contains all of links of my Lab Tasks and Lab Assignments I have done in my First semester of univeristy for the course "Programming Fundamentals". The programming Language is "Java"
 
 [LeapYear.java]-(https://github.com/user-attachments/files/23537991/LeapYear.java)
 
