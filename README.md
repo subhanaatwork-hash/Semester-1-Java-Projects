@@ -181,6 +181,45 @@ This repository  contains all of links of my Lab Tasks and Lab Assignments I hav
 [lab7ReplaceH.java]-(https://github.com/user-attachments/files/23560790/lab7ReplaceH.java)
 
 
+[Lab8Act1.java]-(https://github.com/user-attachments/files/23562298/Lab8Act1.java)
+
+
+[Lab8Act2.java]-(https://github.com/user-attachments/files/23562307/Lab8Act2.java)
+
+
+[Lab8Task8.java]-(https://github.com/user-attachments/files/23562318/Lab8Task8.java)
+
+
+[Lab8Task7.java]-(https://github.com/user-attachments/files/23562317/Lab8Task7.java)
+
+
+[Lab8Task6.java]-(https://github.com/user-attachments/files/23562316/Lab8Task6.java)
+
+
+[Lab8Task5.java]-(https://github.com/user-attachments/files/23562315/Lab8Task5.java)
+
+
+[Lab8Task3.java]-(https://github.com/user-attachments/files/23562314/Lab8Task3.java)
+
+
+[Lab8Task2.java]-(https://github.com/user-attachments/files/23562313/Lab8Task2.java)
+
+
+[Lab8Task1b.java]-(https://github.com/user-attachments/files/23562312/Lab8Task1b.java)
+
+
+[Lab8Task1a.java]-(https://github.com/user-attachments/files/23562311/Lab8Task1a.java)
+
+
+[lab8DaysInAYear.java]-(https://github.com/user-attachments/files/23562310/lab8DaysInAYear.java)
+
+
+[Lab8Act4.java]-(https://github.com/user-attachments/files/23562309/Lab8Act4.java)
+
+
+[Lab8Act3.java]-(https://github.com/user-attachments/files/23562308/Lab8Act3.java)
+
+
 [lab7Remover.java]-(https://github.com/user-attachments/files/23560789/lab7Remover.java)
 
 
