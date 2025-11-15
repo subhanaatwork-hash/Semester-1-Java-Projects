@@ -166,4 +166,37 @@ This repository  contains all of my Lab Tasks and Lab Assignments I have done in
 [patternMenu.java]-(https://github.com/user-attachments/files/23538077/patternMenu.java)
 
 
+[Lab7Task2.java]-(https://github.com/user-attachments/files/23560782/Lab7Task2.java)
+
+
+[Lab7Task3.java]-(https://github.com/user-attachments/files/23560783/Lab7Task3.java)[Lab7Task1.java](https://github.com/user-attachments/files/23560793/Lab7Task1.java)
+
+
+[lab7StringTasks.java]-(https://github.com/user-attachments/files/23560792/lab7StringTasks.java)
+
+
+[Lab7StringSwap.java]-(https://github.com/user-attachments/files/23560791/Lab7StringSwap.java)
+
+
+[lab7ReplaceH.java]-(https://github.com/user-attachments/files/23560790/lab7ReplaceH.java)
+
+
+[lab7Remover.java]-(https://github.com/user-attachments/files/23560789/lab7Remover.java)
+
+
+[lab7IndexFinder.java]-(https://github.com/user-attachments/files/23560788/lab7IndexFinder.java)
+
+
+[Lab7Task5b.java]-(https://github.com/user-attachments/files/23560787/Lab7Task5b.java)
+
+
+[Lab7Task5a.java]-(https://github.com/user-attachments/files/23560786/Lab7Task5a.java)
+
+
+[Lab7Task5.JAVA]-(https://github.com/user-attachments/files/23560785/Lab7Task5.JAVA)
+
+
+[Lab7Task4.java]-(https://github.com/user-attachments/files/23560784/Lab7Task4.java)
+
+
 [maxSequence.java]-(https://github.com/user-attachments/files/23538076/maxSequence.java)
